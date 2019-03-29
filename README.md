@@ -35,7 +35,7 @@ Then you can compile and run using:
 mvn jfx:run
 ```
 
-# About
+# Dependencies
 This projects connects to a Microsoft SQL Server and fetches data. The JDBC Driver for that is available in the [maven repository](https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc).
 To install it, I just had to add it as a runtime dependency in pom.xml.
 
